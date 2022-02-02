@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "TestLibrary": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "BROWSER": "Chrome",
+        "ENVIRONMENT": "QA"
+      }
+    }
+  }
+}
